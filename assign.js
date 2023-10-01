@@ -13,7 +13,7 @@ let b = Array2.length;
         
         }
      }
-   console.log (result)
+   console.log(result)
     
   }
   
