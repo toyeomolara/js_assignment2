@@ -7,13 +7,13 @@ let b = Array2.length;
   function divideArray(){
 
      if (a == b){
-        let result = [];
+        let C = [];
         for (var i = 0; i < Array1.length; i++) {
-          result.push(Array1[i] / Array2[i]);
+          C.push(Array1[i] / Array2[i]);
         
         }
      }
-   console.log(result)
+   console.log(C)
     
   }
   
